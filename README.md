@@ -1,2 +1,12 @@
 # ragemp-attachments-editor
-Live attachments editor with rotation and precise X/Y/Z offset controls.
+
+Lightweight Attachments Editor
+
+Features:
+
+Real-time image rotation
+Dynamic X/Y/Z offset adjustment
+Live preview of transformations
+Key for open/close "F6"
+
+Example: https://youtu.be/TFQuZP55A5U
